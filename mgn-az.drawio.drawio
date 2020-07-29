@@ -1,0 +1,211 @@
+<mxfile host="6654eb78-5d53-473e-8d02-65224c9e7271" modified="2020-07-24T02:52:57.255Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.47.1 Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36" etag="KpJ9swT9MS8y_UUIn_Ty" version="13.1.3">
+    <diagram id="6hGFLwfOUW9BJ-s0fimq" name="Page-1">
+        <mxGraphModel dx="1123" dy="1578" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="11" target="26" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="11" target="28" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="11" target="30" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="11" target="32" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Manage Azure subscriptions and resources" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="338" y="369" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="32" target="77" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="32" target="74" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="32" target="73" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="32" target="75" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="957" y="399"/>
+                            <mxPoint x="957" y="278"/>
+                            <mxPoint x="1034" y="278"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="83" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="32" target="78" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="32" target="76" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Manage resource groups" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="638" y="369" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="92" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="30" target="88">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="93" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="30" target="86">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="94" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="30" target="85">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="95" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.592;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="30" target="89">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="96" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="30" target="91">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="97" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="30" target="87">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Managed role based access control (RBAC)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="338" y="728" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="28" target="54" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="28" target="50" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="28" target="51" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.001;entryY=0.589;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="28" target="52" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="28" target="53" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="28" target="56" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="28" target="58" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="28" target="57" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="28" target="59" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="28" target="55" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="28" target="60" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Analyze resource utilization and consumption" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="338" y="-296" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="26" target="42" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="26" target="36" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="26" target="38" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="26" target="40" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="Manage Azure subscriptions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="157" y="369" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="Assign administrator permissions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="-58.99999999999997" y="256" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="Implement Management Groups" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="-59" y="476" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="Configure policies at Azure subscription level" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="-59.000000000000064" y="403" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Configure cost center quotas and tagging" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="-59" y="329" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot;&gt;&lt;img src=&quot;data:image/png;base64,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&quot; alt=&quot;Cadeado - Desenho de dartinvader - Gartic&quot;&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="414" y="658" width="44" height="48" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot;&gt;&lt;img src=&quot;https://www.kindpng.com/picc/m/122-1222212_how-to-draw-stack-of-money-stack-of.png&quot; alt=&quot;How To Draw Stack Of Money - Stack Of Money Drawing Easy, HD Png ...&quot;&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="329" y="-230.5" width="51" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="create baseline for resources" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="78.00000000000003" y="-245.5" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="&lt;div&gt;&lt;span&gt;create and test alerts&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="86.00000000000003" y="-366" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="&lt;div&gt;analyze metrics across subscription&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="147.00000000000003" y="-462" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="&lt;div&gt;create action groups and action rules&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="264" y="-551" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="Configure diagnostic settings on resources" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="202.00000000000003" y="-129" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="view alerts in Azure Monitor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="621" y="-185.5" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="&lt;div&gt;monitor for unused resources&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="445" y="-551" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="&lt;div&gt;report on spend&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="649" y="-392" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="&lt;div&gt;monitor spend&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="587" y="-483" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="&lt;div&gt;utilize log queries in Azure Monitor&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="682" y="-296" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="Analyze alerts across subscription" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="445" y="-129" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="&lt;div&gt;implement and set tagging on resource groups&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="1005" y="369" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="&lt;div&gt;move resources across resource groups&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="942" y="493" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="&lt;div&gt;Configure resource policies&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="1044" y="247" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="use Azure policies for resource groups" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="712" y="196.0000000000001" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="remove resource groups" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="769" y="492.99999999999994" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="&lt;div&gt;configure resource locks&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="865" y="196" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="85" value="&lt;div&gt;configure management access to Azure&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="253" y="941" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="&lt;div&gt;configure access to Azure resources by assigning roles&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="112" y="849" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="87" value="&lt;div&gt;troubleshoot RBAC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="649" y="731" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="88" value="&lt;div&gt;create a custom role&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="55" y="728" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="89" value="&lt;div&gt;assign RBAC Roles&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="445" y="941" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="91" value="&lt;div&gt;implement RBAC policies&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="638" y="871" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
